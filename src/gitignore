@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Derlenmiş çıktılar
+out/
+build/
+target/
+*.class
+
+# Çalışma anında üretilen log dosyası
+savunma_gunlugu.txt
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log ve geçici dosyalar
+*.log
+*.tmp

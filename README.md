@@ -181,7 +181,7 @@ java -cp out Main
 
 **Burak Çakır**
 Bilgisayar Mühendisliği Bölümü — Kocaeli Üniversitesi
-📧 220201003@kocaeli.edu.tr
+📧 burakcakr43@gmail.com
 
 > Bu proje bireysel bir çalışma olarak yürütülmüştür. Analiz, mimari tasarım, kodlama, görselleştirme, test ve raporlama aşamalarının tamamı yazar tarafından gerçekleştirilmiştir.
 
